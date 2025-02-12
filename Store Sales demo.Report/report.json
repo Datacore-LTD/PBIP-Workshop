@@ -60,7 +60,7 @@
       "ordinal": 5,
       "visualContainers": [
         {
-          "config": "{\"name\":\"4605b74b804a5a051b88\",\"layouts\":[{\"id\":0,\"position\":{\"x\":272,\"y\":48,\"z\":0,\"width\":576,\"height\":128,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"באלי אוזן המן פרג\",\"textStyle\":{\"fontSize\":\"40pt\"}}]}]}}]}}}",
+          "config": "{\"name\":\"4605b74b804a5a051b88\",\"layouts\":[{\"id\":0,\"position\":{\"x\":272,\"y\":48,\"z\":0,\"width\":576,\"height\":128,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Hez Haz is a star\",\"textStyle\":{\"fontSize\":\"24pt\"}}]}]}}]}}}",
           "filters": "[]",
           "height": 128.00,
           "width": 576.00,
